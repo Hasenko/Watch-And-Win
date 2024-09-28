@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/imadd/Documents/Unreal Projects/android-vr-poc-app/android-vr-poc-app/AndroidVrPoc/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/imadd/Documents/Unreal Projects/android-vr-poc-app/android-vr-poc-app/AndroidVrPoc/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
